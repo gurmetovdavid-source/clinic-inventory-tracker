@@ -1,4 +1,4 @@
-: # Clinic Inventory Tracker
+# Clinic Inventory Tracker
 
 A lightweight inventory management app for healthcare clinics. Track medical supplies, get low-stock alerts, and manage suppliers.
 
