@@ -2,6 +2,8 @@
 
 A lightweight inventory management app for healthcare clinics. Track medical supplies, get low-stock alerts, and manage suppliers.
 
+🌐 **Live demo:** [clinic-inventory-tracker.vercel.app](https://clinic-inventory-tracker.vercel.app)
+
 ## Features
 
 - 📦 **Item catalog** — name, category, current stock, minimum threshold, supplier
